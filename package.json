@@ -12,8 +12,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18",
+    "morgan": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristincenters/WorkoutTracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kristincenters/WorkoutTracker/issues"
+  },
+  "homepage": "https://github.com/kristincenters/WorkoutTracker#readme"
 }
